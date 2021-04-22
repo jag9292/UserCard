@@ -1,0 +1,57 @@
+.main {
+    height: 250px;
+    width: 500px;
+    position:absolute;
+    top: 35px;
+    left: 100px;
+    border: 3px solid lightgray;
+    border-radius: 2px;
+}
+.topBar {
+    height: 70px;
+    background-color:cadetblue;
+}
+.user {
+    position: absolute;
+    top: 35px;
+    left: 20px;
+}
+.user img {
+    height: 70px;
+}
+h2 {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.marker {
+    position: absolute;
+    top: 145px;
+    left: 22px;
+}
+.marker img {
+    height: 15px;
+}
+h3 {
+    position: relative;
+    top: 5px;
+    left: 40px;
+}
+h4 {
+    margin: 0px;
+    position: relative;
+    left: 20px;
+    bottom: 5px;
+}
+.edit {
+    position: relative;
+    left: 20px;
+    top: 5px;
+}
+.edit img {
+    height: 15px;
+}
+.edit a {
+    position: relative;
+    bottom: 3px;
+}
